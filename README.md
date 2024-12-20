@@ -5,6 +5,6 @@
 3. add the code below to `index.md` replacing `A-strange-fish.jpg` with your file name.
  
    ```markdown
-   | ![Strange Fish](docs/assets/images/A-strange-fish.jpg) | 
+   | Strange Fish| ![Strange Fish](docs/assets/images/A-strange-fish.jpg) | 
    ```
 4. Commit your changes   
