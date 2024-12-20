@@ -4,3 +4,4 @@ plugins:
 title: youjustenteredthefishzone.fyi
 author: molybdenum
 description: FISH
+show_downloads: false
