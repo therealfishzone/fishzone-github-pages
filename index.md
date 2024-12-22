@@ -1,7 +1,3 @@
----
-title: You Just Entered The Fish Zone!
----
-
 # You Just Entered The Fish Zone!
 
 | Fish | Picture |
