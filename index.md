@@ -1,5 +1,5 @@
 ---
-title: You Just Entered The Fish Zone
+title: You Just Entered The Fish Zone!
 ---
 
 # You Just Entered The Fish Zone!
